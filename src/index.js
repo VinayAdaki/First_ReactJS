@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-var element = React.createElement('h2', {classname: 'greetings'}, 'Welcome to Bits Pilani this is first demo for CI CD!!')
+var element = React.createElement('h2', {classname: 'greetings'}, 'Welcome to Bits Pilani this is first demo for CI CD!!!!!')
 ReactDOM.render(element, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
